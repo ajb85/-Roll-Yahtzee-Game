@@ -1,0 +1,20 @@
+{
+  "ones": 4,
+  "twos": 6,
+  "threes": 9,
+  "fours": 12,
+  "fives": 15,
+  "sixes": 24,
+  "leftTotal": 105,
+  "grandTotal": 268,
+  "threeKind": 22,
+  "fourKind": 26,
+  "fiveKind": 0,
+  "fullHouse": 25,
+  "smStr": 30,
+  "lgStr": 40,
+  "totalSum": 20,
+  "rollBonus": 0,
+  "rightTotal": 163,
+  "name": "AJ is not so easily bested"
+}
